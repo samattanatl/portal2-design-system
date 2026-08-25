@@ -365,6 +365,7 @@ Component-level documentation (anatomy, variants, token usage per component, and
 
 Composite structures assembled from multiple already-documented components — layout rules, states, and composition, not a token-by-token anatomy table (see each pattern doc for why). Lives in `docs/patterns/`.
 
+- [`docs/patterns/app-shell.md`](docs/patterns/app-shell.md)
 - [`docs/patterns/sidebar-navigation.md`](docs/patterns/sidebar-navigation.md)
 - [`docs/patterns/mobile-bottom-navigation.md`](docs/patterns/mobile-bottom-navigation.md)
 - [`docs/patterns/home-dashboard.md`](docs/patterns/home-dashboard.md)
